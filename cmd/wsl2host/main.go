@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 	"strings"
+	"wsl2host/internal"
 
-	"github.com/shayne/go-wsl2-host/cmd/wsl2host/internal"
 	"golang.org/x/sys/windows/svc"
 )
 
