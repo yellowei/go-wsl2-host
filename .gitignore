@@ -4,3 +4,4 @@ vendor/
 examples/
 foo.go
 foo_test.go
+.idea/
